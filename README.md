@@ -21,3 +21,7 @@ dotnet ef database update
 ```cmd
 dotnet run
 ```
+
+## Ismert hibák
+
+Az új dolgozóval, kötelező mindig új pozíciót is felvenni.
